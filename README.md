@@ -32,4 +32,5 @@ Ato Hitostu_Funky Monkey Baby
 Yoru ni kakeru
 Golden Wind
 Tada koe hitostu
+Senbon sakura
 ...
